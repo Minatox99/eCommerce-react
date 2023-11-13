@@ -8,7 +8,6 @@ import NotFound from "../NotFound";
 import SignIn from "../SignIn";
 import Navbar from "../../Components/NavBar";
 import CheckoutSideMenu from "../../Components/CheckoutSideMenu";
-import "./app.css";
 
 const AppRoutes = () => {
   let routes = useRoutes([
